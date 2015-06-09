@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30110.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorstCaseReleaseScenario", "WorstCaseReleaseScenario.csproj", "{3E0AB42C-9FC7-45A0-9FED-DACCC9CC45F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PFRPLib", "PFRPLib\PFRPLib.csproj", "{0921BBF1-744F-42AC-BEE1-27DD50C940DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E0AB42C-9FC7-45A0-9FED-DACCC9CC45F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E0AB42C-9FC7-45A0-9FED-DACCC9CC45F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E0AB42C-9FC7-45A0-9FED-DACCC9CC45F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E0AB42C-9FC7-45A0-9FED-DACCC9CC45F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0921BBF1-744F-42AC-BEE1-27DD50C940DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0921BBF1-744F-42AC-BEE1-27DD50C940DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0921BBF1-744F-42AC-BEE1-27DD50C940DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0921BBF1-744F-42AC-BEE1-27DD50C940DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
